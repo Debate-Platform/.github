@@ -1,1 +1,0 @@
-# Debate Platform Org
