@@ -1,1 +1,1 @@
-# .github
+# Debate Platform Org
